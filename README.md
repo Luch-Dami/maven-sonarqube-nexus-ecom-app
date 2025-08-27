@@ -1,1 +1,0 @@
-# maven-sonarqube-nexus-ecom-app
