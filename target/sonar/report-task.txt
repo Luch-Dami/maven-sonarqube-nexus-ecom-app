@@ -1,6 +1,0 @@
-projectKey=e-commerce-webapp-1
-serverUrl=http://54.166.3.177:9000
-serverVersion=8.3.0.34182
-dashboardUrl=http://54.166.3.177:9000/dashboard?id=e-commerce-webapp-1
-ceTaskId=AZj4J9Gv05kZcIZxeAfq
-ceTaskUrl=http://54.166.3.177:9000/api/ce/task?id=AZj4J9Gv05kZcIZxeAfq
