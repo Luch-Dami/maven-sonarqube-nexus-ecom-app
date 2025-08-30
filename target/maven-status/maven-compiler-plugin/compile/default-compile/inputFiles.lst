@@ -1,0 +1,7 @@
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/servlet/CartServlet.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/store/ProductRepository.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/model/CartItem.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/servlet/CheckoutServlet.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/servlet/HealthServlet.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/servlet/ProductListServlet.java
+/home/ubuntu/maven-sonarqube-nexus-ecom-app/src/main/java/com/example/ecommerce/model/Product.java

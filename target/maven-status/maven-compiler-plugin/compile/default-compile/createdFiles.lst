@@ -1,0 +1,7 @@
+com/example/ecommerce/model/Product.class
+com/example/ecommerce/store/ProductRepository.class
+com/example/ecommerce/model/CartItem.class
+com/example/ecommerce/servlet/CheckoutServlet.class
+com/example/ecommerce/servlet/CartServlet.class
+com/example/ecommerce/servlet/HealthServlet.class
+com/example/ecommerce/servlet/ProductListServlet.class
