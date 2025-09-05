@@ -5,7 +5,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>ecommerce-webapp</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
 
   <name>E-Commerce WebApp</name>
@@ -71,11 +71,11 @@
   <distributionManagement>
     <repository>
       <id>nexus-releases</id>
-      <url>http://172.31.22.60:8081/repository/maven-snapshots/</url>
+      <url>http://172.31.31.78:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://172.31.22.60:8081/repository/maven-snapshots//</url>
+      <url>http://172.31.31.78:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
